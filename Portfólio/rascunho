@@ -1,0 +1,48 @@
+ <details class="descricao">
+                                <summary></summary>
+                                <p>
+                                </p>
+                            </details>
+
+                            
+<details class="descricao">
+    <summary>Saiba mais...</summary>
+    <p>Repositório do projeto: <a href="https://github.com/SISTEMA-PETSHOP/PetShop.git" target="_blank" rel="nofollow">github.com/SISTEMA-PETSHOP/PetShop</a></p>
+</details>
+
+
+:root {
+    --fundo-principal: #f8fafc;
+    --texto: #1e293b;
+    --texto-inverso: #ffffff;
+    --destaque: #0284c7;
+    --destaque-inverso: #7dd3fc;
+    --fundo-card: #ffffff;
+}
+
+body.escuro {
+    --fundo-principal: #1f2937;
+    --texto: #dbeafe;
+    --texto-inverso: #f8fafc;
+    --destaque: #14b8a6;
+    --destaque-inverso: #5eead4;
+    --fundo-card: #0f172a;
+}
+
+:root {
+    --fundo-principal: #e8f0ff;
+    --texto: #0f172a;
+    --texto-inverso: #ffffff;
+    --destaque: #7c3aed;
+    --destaque-inverso: #a78bfa;
+    --fundo-card: #ffffff;
+}
+
+body.escuro {
+    --fundo-principal: #09071a;
+    --texto: #e0e7ff;
+    --texto-inverso: #f8fafc;
+    --destaque: #7c3aed;
+    --destaque-inverso: #c4b5fd;
+    --fundo-card: #111827;
+}
